@@ -160,6 +160,10 @@ footer {
     box-shadow: 0px -3px 7px rgba(0, 0, 0, 0.377);
 }
 
+footer > p {
+    font-size: 0.8em;
+}
+
 .vid {
     background-color: var(--cor3);
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.377);
